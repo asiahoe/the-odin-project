@@ -6,7 +6,7 @@
    - [How This Course Will Work](introduction/how-this-course-will-work.md)
    - [Introduction to Web Development](introduction/intro-to-web-dev.md)
    - [Motivation and Mindset](introduction/motivation-mindset.md)
-   - Asking for Help
+   - [Asking for Help](introduction/asking-for-help.md)
    - Join the Odin Community
 2. Prerequisites
 3. Git Basics
